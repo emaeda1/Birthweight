@@ -1,5 +1,5 @@
 # Birthweight
-Building a predictive model on a continuous response variable (Y-variable) to predict Birthweight of Babies in Jupyter Notebook.
+Building a predictive model on a continuous response variable (Y-variable) to predict Birthweight of Babies.
 
 [![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://jupyter.org/try)
 
